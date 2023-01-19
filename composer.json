@@ -1,5 +1,5 @@
 {
-    "name": "arafat/odd-even",
+    "name": "arafat7616/odd-even",
     "autoload": {
         "psr-4": {
             "Arafat\\OddEven\\": "src/"
